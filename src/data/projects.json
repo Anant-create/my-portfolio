@@ -1,0 +1,26 @@
+[
+  {
+    "title": "E-Dashboard",
+    "imageSrc": "projects/dashboard.png",
+    "description": "Creating a user-friendly platform for online retail, featuring product catalog management and secure user authentication.",
+    "skills": ["MongoDB","Express.js","React.js","Node.js"],
+    "demo": "https://deluxe-twilight-e670f5.netlify.app/",
+    "source": "https://github.com/Anant-create/E-dashboard.git"
+  },
+  {
+    "title": "Weather App",
+    "imageSrc": "projects/weather.png",
+    "description": "Created a website for real-time weather updates, ensuring accurate and current weather information for users seeking reliable forecasts.",
+    "skills": ["HTML", "CSS", "Javascript"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/Anant-create/Weather-App.git"
+  },
+  {
+    "title": "Notes App",
+    "imageSrc": "projects/notes.png",
+    "description": "Intuitive interface designed for easy note creation, organization, and access, ensuring user-friendliness and functionality in note management tasks.",
+    "skills": ["HTML", "CSS", "Javascript"],
+    "demo": "https://663d2418d4986f433f00c23e--spectacular-sunburst-09de72.netlify.app/",
+    "source": "https://github.com/Anant-create/Sticky-Notes.git"
+  }
+]
